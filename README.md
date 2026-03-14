@@ -32,10 +32,8 @@ I have worked across multiple industries including steel plants, pharmaceutical 
 
 - CC-Link IE
 - MELSECNET
-- FL-NET
 - DeviceNet
 - Ethernet/IP
-- MODBUS
 
 ---
 
