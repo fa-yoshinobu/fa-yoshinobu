@@ -1,7 +1,11 @@
 ![PLC](https://img.shields.io/badge/PLC-Industrial%20Automation-blue)
+![HMI](https://img.shields.io/badge/HMI-Operator%20Interface-lightgrey)
 ![Mitsubishi](https://img.shields.io/badge/Mitsubishi-MELSEC-red)
 ![Omron](https://img.shields.io/badge/Omron-Sysmac-black)
 ![Keyence](https://img.shields.io/badge/Keyence-KV-yellow)
+![JTEKT](https://img.shields.io/badge/JTEKT-TOYOPUC-blue)
+![CODESYS](https://img.shields.io/badge/CODESYS-SoftPLC-orange)
+
 
 # 👨‍🔧 fa_yoshinobu
 
