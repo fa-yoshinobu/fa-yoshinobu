@@ -67,7 +67,6 @@ Hardware available in my home lab:
 
 This environment allows me to validate PLC systems and communication protocols before deployment.
 
-(PLC collector in progress...)
 
 ---
 
