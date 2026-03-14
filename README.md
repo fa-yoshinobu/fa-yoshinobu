@@ -28,13 +28,6 @@ I have worked across multiple industries including steel plants, pharmaceutical 
 - JTEKT TOYOPUC
 - CODESYS
 
-### HMI / SCADA
-
-- Mitsubishi GOT (A900 / 1000 / 2000)
-- GP-Pro EX
-- Wonderware InTouch
-- Siemens WinCC
-
 ### Industrial Networks
 
 - CC-Link IE
@@ -68,6 +61,7 @@ Hardware available in my home lab:
 - CC-Link IE modules
 - MELSECNET modules
 - GOT2000 HMI
+- TOYOPUC
 
 This environment allows me to validate PLC systems and communication protocols before deployment.
 
