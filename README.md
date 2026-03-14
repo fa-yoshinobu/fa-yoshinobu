@@ -100,9 +100,6 @@ https://qiita.com/search?q=user%3Afa_yoshinobu
 
 X (Twitter)  
 https://x.com/fa_yoshinobu
-
----
-
 💡 If you are working on industrial automation systems, PLC development, or FA-related projects, feel free to connect.
 
 ---
