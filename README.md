@@ -7,8 +7,6 @@
 ![CODESYS](https://img.shields.io/badge/CODESYS-SoftPLC-orange)
 
 
----
-
 # 👨‍🔧 fa_yoshinobu
 
 **Freelance FA Engineer**
@@ -16,28 +14,18 @@ PLC / Industrial Automation
 
 20+ years experience in PLC programming, control systems, and commissioning.
 
----
-
 ## ⚙️ Skills
 
 * Mitsubishi / Omron / Keyence / TOYOPUC / CODESYS
 * CC-Link IE / Ethernet/IP / DeviceNet
 
----
-
 ## 🏭 Experience
 
 * Steel / Pharma / Automotive / Water treatment
 
----
-
 ## 🔬 Interests
 
 Industrial communication, PLC architecture, Embedded / IoT
-
----
-
----
 
 ## 📝 Technical Articles
 
@@ -51,8 +39,6 @@ https://qiita.com/search?q=user%3Afa_yoshinobu
 
 Homepage
 https://fa-yoshinobu.github.io/FA_Labo/index.html
-
----
 
 ## 📫 Contact
 
