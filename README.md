@@ -43,5 +43,6 @@ https://fa-yoshinobu.github.io/FA_Labo/index.html
 ## 📫 Contact
 
 X (Twitter)  
-https://x.com/fa_yoshinobu　
+https://x.com/fa_yoshinobu
+
 💡 If you are working on industrial automation systems, PLC development, or FA-related projects, feel free to connect.
