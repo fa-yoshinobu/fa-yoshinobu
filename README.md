@@ -7,80 +7,35 @@
 ![CODESYS](https://img.shields.io/badge/CODESYS-SoftPLC-orange)
 
 
+---
+
 # 👨‍🔧 fa_yoshinobu
 
-Freelance FA Engineer  
-PLC / Industrial Automation / Control Systems
+**Freelance FA Engineer**
+PLC / Industrial Automation
 
-20+ years experience in Factory Automation systems including PLC programming, control panel design, HMI/SCADA systems, and commissioning.
-
-I have worked across multiple industries including steel plants, pharmaceutical manufacturing equipment, automotive production lines, and industrial water treatment systems.
+20+ years experience in PLC programming, control systems, and commissioning.
 
 ---
 
-## ⚙️ Technical Skills
+## ⚙️ Skills
 
-### PLC Platforms
-
-- Mitsubishi MELSEC (A / Q / iQ-R / iQ-F)
-- Omron Sysmac (NJ / NX)
-- Keyence KV Series
-- JTEKT TOYOPUC
-- CODESYS
-
-### Industrial Networks
-
-- CC-Link IE
-- MELSECNET
-- DeviceNet
-- Ethernet/IP
+* Mitsubishi / Omron / Keyence / TOYOPUC / CODESYS
+* CC-Link IE / Ethernet/IP / DeviceNet
 
 ---
 
-## 🏭 Industry Experience
+## 🏭 Experience
 
-- Steel plant automation
-- Pharmaceutical manufacturing equipment
-- Automotive production lines
-- Industrial water treatment systems
-- Production equipment automation
+* Steel / Pharma / Automotive / Water treatment
 
 ---
 
-## 🧰 Home PLC Lab
+## 🔬 Interests
 
-I maintain a personal FA development environment for testing PLC systems and industrial communication.
-
-Hardware available in my home lab:
-
-- Mitsubishi Q / iQ-R / iQ-F PLC
-- Omron NJ101 / NX102
-- Keyence KV Series
-- CC-Link IE modules
-- MELSECNET modules
-- GOT2000 HMI
-- TOYOPUC
-
-This environment allows me to validate PLC systems and communication protocols before deployment.
-
+Industrial communication, PLC architecture, Embedded / IoT
 
 ---
-
-## 🔬 Technical Interests
-
-- Industrial communication protocols
-- PLC internal architecture
-- Reverse engineering of industrial hardware
-- Embedded systems
-- IoT integration with PLC systems
-
----
-
-## 🛠 Other Tools
-
-- PCB Design : KiCad
-- Microcontrollers : ESP32 / Arduino / Raspberry Pi
-- 3D Printing : Bambu Lab P1S Combo
 
 ---
 
@@ -93,6 +48,9 @@ https://qiita.com/fa_yoshinobu
 
 Article list  
 https://qiita.com/search?q=user%3Afa_yoshinobu
+
+Homepage
+https://fa-yoshinobu.github.io/FA_Labo/index.html
 
 ---
 
